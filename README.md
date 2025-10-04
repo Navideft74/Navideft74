@@ -14,9 +14,10 @@ This line has been written by gpt 3.o so we all know about the advertisement! AI
   
 - **Real-Time Features:**  
   Experimenting with integrating Firebase for real-time updates, user authentication, and additional cloud functionalities while maintaining Django’s core business logic.
+
+- **API:**
+  Building REST api's and endpoints for various functionalities.
   
-- **AI-Enhanced Development:**  
-  Utilizing free AI tools like ChatGPT, Codeium, Kite, and others to learn, debug, and refactor my Django code. These tools help improve productivity and code quality.
 
 ## Tech Stack
 
@@ -25,50 +26,10 @@ This line has been written by gpt 3.o so we all know about the advertisement! AI
 - **Database:** SQLite (development) / PostgreSQL (production-ready)
 - **Cloud & Realtime:** Firebase integration for authentication, analytics, or real-time data (where applicable)
 - **Tools & AI:**  
-  - **ChatGPT:** For learning and troubleshooting  
+  - **ChatGPT:** For troubleshooting  
   - **Codeium / Kite:** For context-aware code completion  
   - **VS Code with IntelliCode:** For enhanced development and debugging experiences
 
-## Getting Started
-
-### Prerequisites
-
-Before you run the project locally, ensure you have installed:
-- Python 3.x
-- pip (Python package manager)
-- Virtualenv (optional but recommended)
-
-### Installation
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/your-django-repo.git
-    cd your-django-repo
-    ```
-
-2. **Create & Activate a Virtual Environment:**
-    ```bash
-    python -m venv env
-    source env/bin/activate  # On Windows, use `env\Scripts\activate`
-    ```
-
-3. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Run Migrations:**
-    ```bash
-    python manage.py migrate
-    ```
-
-5. **Start the Development Server:**
-    ```bash
-    python manage.py runserver
-    ```
-
-6. **Access the Application:**
-    Open your browser and navigate to `http://127.0.0.1:8000/`.
 
 ## Project Structure
 
